@@ -1,0 +1,6 @@
+strategy,description,accuracy,precision_macro,recall_macro,f1_macro
+contextual,Scene & habitat prompts,0.7667,0.7863,0.7667,0.7677
+scientific,Botanical / taxonomic prompts,0.7,0.7238,0.7,0.6932
+ensemble,Average embedding of all strategies,0.7,0.8061,0.7,0.6934
+simple,Minimal label prompts,0.6333,0.8254,0.6333,0.6278
+descriptive,Visual attribute prompts,0.5333,0.6667,0.5333,0.5

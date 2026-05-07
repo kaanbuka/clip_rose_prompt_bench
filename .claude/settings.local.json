@@ -1,0 +1,7 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python -c \"import ast; [ast.parse\\(open\\(f\\).read\\(\\)\\) for f in ['main.py','config.py','clip_classifier.py','prompt_strategies.py','evaluate.py','visualize.py','dashboard.py']]; print\\('all parse OK'\\)\")"
+    ]
+  }
+}

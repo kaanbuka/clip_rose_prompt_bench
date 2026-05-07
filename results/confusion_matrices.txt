@@ -1,0 +1,35 @@
+
+Strategy: simple
+                    rosa_canina     rosa_damascena  rosa_multiflora
+rosa_canina                      4               0               6
+rosa_damascena                   0               5               5
+rosa_multiflora                  0               0              10
+
+
+Strategy: descriptive
+                    rosa_canina     rosa_damascena  rosa_multiflora
+rosa_canina                      5               0               5
+rosa_damascena                   8               2               0
+rosa_multiflora                  1               0               9
+
+
+Strategy: scientific
+                    rosa_canina     rosa_damascena  rosa_multiflora
+rosa_canina                      4               0               6
+rosa_damascena                   2               8               0
+rosa_multiflora                  1               0               9
+
+
+Strategy: contextual
+                    rosa_canina     rosa_damascena  rosa_multiflora
+rosa_canina                      9               0               1
+rosa_damascena                   0               8               2
+rosa_multiflora                  4               0               6
+
+
+Strategy: ensemble
+                    rosa_canina     rosa_damascena  rosa_multiflora
+rosa_canina                      9               0               1
+rosa_damascena                   6               4               0
+rosa_multiflora                  2               0               8
+
